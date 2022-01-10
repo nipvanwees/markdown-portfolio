@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+- 🇳🇱 is where I was born and raised
+- I like web technologies
