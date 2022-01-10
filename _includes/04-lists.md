@@ -1,0 +1,2 @@
+- 🇳🇱 is where I was born and raised
+- I like web technologies
