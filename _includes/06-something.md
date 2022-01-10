@@ -15,6 +15,6 @@
 git commit -a -m "<your message here>"
 ```
 
-[work]("https://todos.dmn327.nl")
+[work](https://todos.dmn327.nl)
 
-:smile: for sure
+😄 🕥 🐺 🍎
