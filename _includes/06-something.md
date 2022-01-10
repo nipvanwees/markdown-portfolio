@@ -5,7 +5,8 @@
 ```js
 {
     name: "Nip van Wees",
-    dateOfBirth: "13/12/1995" // DD/MM/YYYY
+    dateOfBirth: "13/12/1995", // DD/MM/YYYY,
+    versionNumber: 2
 }
 ```
 
